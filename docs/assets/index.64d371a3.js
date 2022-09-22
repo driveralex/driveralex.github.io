@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as _,A as o,p as a,m as n,e as d}from"./app.058cc115.js";const s={},p=e=>(a("data-v-9a8bf070"),e=e(),n(),e),r={class:"dev-wrapper"},i=p(()=>d("div",{class:"login-wrapper"},null,-1)),f=[i];function l(e,u){return t(),_("div",r,f)}typeof o=="function"&&o(s);const h=c(s,[["render",l],["__scopeId","data-v-9a8bf070"]]);export{h as default};
