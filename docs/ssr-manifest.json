@@ -32,7 +32,7 @@
   "src/components/SideButtonNew.vue": [],
   "node_modules/.pnpm/simplebar@5.3.8/node_modules/simplebar/dist/simplebar.min.css": [],
   "src/components/NavTree.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/components/NavTree.vue?vue&type=style&index=0&scoped=90ec57cc&lang.scss": [],
+  "src/components/NavTree.vue?vue&type=style&index=0&scoped=36ed76ce&lang.scss": [],
   "src/components/NavTree.vue": [],
   "node_modules/.pnpm/@vueuse+shared@9.1.0_vue@3.2.37/node_modules/@vueuse/shared/index.mjs": [],
   "node_modules/.pnpm/@vueuse+core@9.1.0_vue@3.2.37/node_modules/@vueuse/core/index.mjs": [],
@@ -231,7 +231,7 @@
   "src/composables/dark.ts": [],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [],
-  "src/pages/index.vue?vue&type=style&index=0&scoped=801fbe8e&lang.scss": [],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=c8ed72b2&lang.scss": [],
   "../../../../../@vite-plugin-pages/route-block": [],
   "src/pages/index.vue": [],
   "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
@@ -240,7 +240,7 @@
   "../../../../../__uno.css": [],
   "src/main.ts": [],
   "index.html": [],
-  "assets/app.058cc115.js-unocss-hash.css": [],
+  "assets/app.3a7252fd.js-unocss-hash.css": [],
   "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
     "/assets/virtual_pwa-register.b65913a8.js"
   ],
@@ -248,454 +248,454 @@
     "/assets/virtual_pwa-register.b65913a8.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404.affaaf2f.js"
+    "/assets/404.a5786f2d.js"
   ],
   "src/layouts/404.vue": [
-    "/assets/404.affaaf2f.js"
+    "/assets/404.a5786f2d.js"
   ],
   "src/layouts/card.vue": [
-    "/assets/card.bdc81d96.js"
+    "/assets/card.d35af35e.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/home.3242b8d2.js"
+    "/assets/home.1938bbd1.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.3242b8d2.js"
+    "/assets/home.1938bbd1.js"
   ],
   "src/layouts/landingPage.vue": [
-    "/assets/landingPage.2b647554.js"
+    "/assets/landingPage.323e00bf.js"
   ],
   "src/store/card.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/store/deck.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/store/endGameBehaving.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/store/board.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/PeagesSelector.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/PeagesSelector.vue?vue&type=style&index=0&scoped=3e646047&lang.scss": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/PeagesSelector.vue": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/SelectNumber.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Select.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Select.vue?vue&type=style&index=0&scoped=ddbff596&lang.scss": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Select.vue": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/store/boardPosition.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/BoardInfos.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/BoardInfos.vue?vue&type=style&index=0&scoped=bb691c5c&lang.scss": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/BoardInfos.vue": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/CardProps.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/CardProps.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Board.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Board.vue?vue&type=style&index=0&scoped=9eb6eaec&lang.scss": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/components/Board.vue": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/pages/autoroute/index.vue": [
-    "/assets/index.9c3ac81c.js",
+    "/assets/index.fae829bb.js",
     "/assets/index.e2d7bdda.css"
   ],
   "src/pages/complexSystem/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.7caa9740.js",
+    "/assets/index.4ed99e60.js",
     "/assets/index.46179232.css"
   ],
   "src/pages/complexSystem/index.vue?vue&type=style&index=0&scoped=6fe828b3&lang.scss": [
-    "/assets/index.7caa9740.js",
+    "/assets/index.4ed99e60.js",
     "/assets/index.46179232.css"
   ],
   "src/pages/complexSystem/index.vue": [
-    "/assets/index.7caa9740.js",
+    "/assets/index.4ed99e60.js",
     "/assets/index.46179232.css"
   ],
   "src/pages/complexSystem/Introduction_cs.md": [
-    "/assets/Introduction_cs.33918305.js"
+    "/assets/Introduction_cs.b6ebe0d4.js"
   ],
   "src/components/MyButton.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/components/MyButton.vue?vue&type=style&index=0&scoped=ba7700c6&lang.scss": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/components/MyButton.vue": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/components/ButtonSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/components/ButtonSection.vue?vue&type=style&index=0&scoped=b057b245&lang.scss": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/components/ButtonSection.vue": [
-    "/assets/ButtonSection.41a2216e.js",
+    "/assets/ButtonSection.40383628.js",
     "/assets/ButtonSection.a8915088.css"
   ],
   "src/store/myuser.ts": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/Alert.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/Alert.vue?vue&type=style&index=0&scoped=f15aaef1&lang.scss": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/Alert.vue": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SelectText.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SelectText.vue?vue&type=style&index=0&scoped=ea758a91&lang.scss": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SelectText.vue": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SignIn.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SignIn.vue?vue&type=style&index=0&scoped=870598cc&lang.scss": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/components/SignIn.vue": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/pages/auth/signin/index.vue?vue&type=style&index=0&scoped=3fb13206&lang.scss": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/pages/auth/signin/index.vue": [
-    "/assets/index.9643856f.js",
+    "/assets/index.5d7eca26.js",
     "/assets/index.7bec4aeb.css"
   ],
   "src/pages/auth/signup/index.vue?vue&type=style&index=0&scoped=9a8bf070&lang.scss": [
-    "/assets/index.64d371a3.js",
+    "/assets/index.d0fc2ec0.js",
     "/assets/index.7ebb3568.css"
   ],
   "src/pages/auth/signup/index.vue": [
-    "/assets/index.64d371a3.js",
+    "/assets/index.d0fc2ec0.js",
     "/assets/index.7ebb3568.css"
   ],
   "src/pages/complexSystem/epidemicModels/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.8d5843b0.js"
+    "/assets/index.094afe40.js"
   ],
   "src/pages/complexSystem/epidemicModels/index.vue": [
-    "/assets/index.8d5843b0.js"
+    "/assets/index.094afe40.js"
   ],
   "src/pages/complexSystem/epidemicModels/README.md": [
-    "/assets/README.f7f91b75.js"
+    "/assets/README.c2892fd1.js"
   ],
   "src/pages/complexSystem/getting-started/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.b2aac6e3.js"
+    "/assets/index.da67707c.js"
   ],
   "src/pages/complexSystem/getting-started/index.vue": [
-    "/assets/index.b2aac6e3.js"
+    "/assets/index.da67707c.js"
   ],
   "src/pages/complexSystem/getting-started/README.md": [
-    "/assets/README.8c946dad.js"
+    "/assets/README.3b3536e8.js"
   ],
   "src/pages/complexSystem/random-graph-models/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.eb0e0b2e.js"
+    "/assets/index.674f41d2.js"
   ],
   "src/pages/complexSystem/random-graph-models/index.vue": [
-    "/assets/index.eb0e0b2e.js"
+    "/assets/index.674f41d2.js"
   ],
   "src/pages/complexSystem/random-graph-models/README.md": [
-    "/assets/README.5f328ad9.js"
+    "/assets/README.1cd21578.js"
   ],
   "src/pages/complexSystem/voterModel/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.b956d811.js",
+    "/assets/index.7c00121f.js",
     "/assets/index.409819f4.css"
   ],
   "src/pages/complexSystem/voterModel/index.vue?vue&type=style&index=0&scoped=85a76dba&lang.scss": [
-    "/assets/index.b956d811.js",
+    "/assets/index.7c00121f.js",
     "/assets/index.409819f4.css"
   ],
   "src/pages/complexSystem/voterModel/index.vue": [
-    "/assets/index.b956d811.js",
+    "/assets/index.7c00121f.js",
     "/assets/index.409819f4.css"
   ],
   "src/pages/complexSystem/voterModel/README.md": [
-    "/assets/README.1a0b283a.js"
+    "/assets/README.ae93b296.js"
   ],
   "src/pages/complexSystem/epidemicModels/effectOfConfinePeople/limitation.png": [
-    "/assets/effect-of-confine-people.3aad4224.js",
+    "/assets/effect-of-confine-people.3854646c.js",
     "/assets/limitation.8d6609ee.png"
   ],
   "src/pages/complexSystem/epidemicModels/effectOfConfinePeople/effect-of-confine-people.md": [
-    "/assets/effect-of-confine-people.3aad4224.js",
+    "/assets/effect-of-confine-people.3854646c.js",
     "/assets/limitation.8d6609ee.png"
   ],
   "src/pages/complexSystem/epidemicModels/effectOfConfinePeople/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.2edcfe26.js"
+    "/assets/index.1b2622a9.js"
   ],
   "src/pages/complexSystem/epidemicModels/effectOfConfinePeople/index.vue": [
-    "/assets/index.2edcfe26.js"
+    "/assets/index.1b2622a9.js"
   ],
   "src/pages/complexSystem/epidemicModels/implementation/tpfourqto.png": [
-    "/assets/implementation.e959774b.js",
+    "/assets/implementation.8ea7f2cd.js",
     "/assets/tpfourqto.012f76c3.png",
     "/assets/solver.777bfa71.png"
   ],
   "src/pages/complexSystem/epidemicModels/implementation/solver.png": [
-    "/assets/implementation.e959774b.js",
+    "/assets/implementation.8ea7f2cd.js",
     "/assets/tpfourqto.012f76c3.png",
     "/assets/solver.777bfa71.png"
   ],
   "src/pages/complexSystem/epidemicModels/implementation/implementation.md": [
-    "/assets/implementation.e959774b.js",
+    "/assets/implementation.8ea7f2cd.js",
     "/assets/tpfourqto.012f76c3.png",
     "/assets/solver.777bfa71.png"
   ],
   "src/pages/complexSystem/epidemicModels/implementation/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.adb187e6.js"
+    "/assets/index.dbf2fe04.js"
   ],
   "src/pages/complexSystem/epidemicModels/implementation/index.vue": [
-    "/assets/index.adb187e6.js"
+    "/assets/index.dbf2fe04.js"
   ],
   "src/pages/complexSystem/epidemicModels/testAndIsolationStrategies/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.3a6ef362.js"
+    "/assets/index.2867319a.js"
   ],
   "src/pages/complexSystem/epidemicModels/testAndIsolationStrategies/index.vue": [
-    "/assets/index.3a6ef362.js"
+    "/assets/index.2867319a.js"
   ],
   "src/pages/complexSystem/epidemicModels/testAndIsolationStrategies/test1.png": [
-    "/assets/test-and-isolation-strategies.b13fd05a.js",
+    "/assets/test-and-isolation-strategies.48e89fc8.js",
     "/assets/test1.287dfcc8.png",
     "/assets/test_everybpody.0bddf6d1.png"
   ],
   "src/pages/complexSystem/epidemicModels/testAndIsolationStrategies/test_everybpody.png": [
-    "/assets/test-and-isolation-strategies.b13fd05a.js",
+    "/assets/test-and-isolation-strategies.48e89fc8.js",
     "/assets/test1.287dfcc8.png",
     "/assets/test_everybpody.0bddf6d1.png"
   ],
   "src/pages/complexSystem/epidemicModels/testAndIsolationStrategies/test-and-isolation-strategies.md": [
-    "/assets/test-and-isolation-strategies.b13fd05a.js",
+    "/assets/test-and-isolation-strategies.48e89fc8.js",
     "/assets/test1.287dfcc8.png",
     "/assets/test_everybpody.0bddf6d1.png"
   ],
   "src/pages/complexSystem/getting-started/breadth-first-search-algorithm-and-applications/breadth-first-search-algorithm-and-applications.md": [
-    "/assets/breadth-first-search-algorithm-and-applications.1b145fcc.js"
+    "/assets/breadth-first-search-algorithm-and-applications.b3d00728.js"
   ],
   "src/pages/complexSystem/getting-started/breadth-first-search-algorithm-and-applications/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.7459990b.js"
+    "/assets/index.fe1dadcc.js"
   ],
   "src/pages/complexSystem/getting-started/breadth-first-search-algorithm-and-applications/index.vue": [
-    "/assets/index.7459990b.js"
+    "/assets/index.fe1dadcc.js"
   ],
   "src/pages/complexSystem/getting-started/igraph-package/igraph-package.md": [
-    "/assets/igraph-package.2c10e14d.js"
+    "/assets/igraph-package.e995c7b8.js"
   ],
   "src/pages/complexSystem/getting-started/igraph-package/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.85180375.js"
+    "/assets/index.6c5666e8.js"
   ],
   "src/pages/complexSystem/getting-started/igraph-package/index.vue": [
-    "/assets/index.85180375.js"
+    "/assets/index.6c5666e8.js"
   ],
   "src/pages/complexSystem/getting-started/representations-of-graph-and-first-metrics/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.04f897a0.js",
+    "/assets/index.07a4466c.js",
     "/assets/index.8ec2187e.css"
   ],
   "src/pages/complexSystem/getting-started/representations-of-graph-and-first-metrics/index.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/index.04f897a0.js",
+    "/assets/index.07a4466c.js",
     "/assets/index.8ec2187e.css"
   ],
   "src/pages/complexSystem/getting-started/representations-of-graph-and-first-metrics/index.vue": [
-    "/assets/index.04f897a0.js",
+    "/assets/index.07a4466c.js",
     "/assets/index.8ec2187e.css"
   ],
   "src/pages/complexSystem/getting-started/representations-of-graph-and-first-metrics/sample1.png": [
-    "/assets/representations-of-graph-and-first-metrics.ecd3d7e5.js"
+    "/assets/representations-of-graph-and-first-metrics.aa2eacad.js"
   ],
   "src/pages/complexSystem/getting-started/representations-of-graph-and-first-metrics/representations-of-graph-and-first-metrics.md": [
-    "/assets/representations-of-graph-and-first-metrics.ecd3d7e5.js"
+    "/assets/representations-of-graph-and-first-metrics.aa2eacad.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-average-length-as-function-of-p/p_average_length.png": [
-    "/assets/erdos-renyi-average-length-as-function-of-p.ac42eee9.js",
+    "/assets/erdos-renyi-average-length-as-function-of-p.fc63914d.js",
     "/assets/p_average_length.26f64193.png"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-average-length-as-function-of-p/erdos-renyi-average-length-as-function-of-p.md": [
-    "/assets/erdos-renyi-average-length-as-function-of-p.ac42eee9.js",
+    "/assets/erdos-renyi-average-length-as-function-of-p.fc63914d.js",
     "/assets/p_average_length.26f64193.png"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-average-length-as-function-of-p/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.37d8df72.js"
+    "/assets/index.ccac0b57.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-average-length-as-function-of-p/index.vue": [
-    "/assets/index.37d8df72.js"
+    "/assets/index.ccac0b57.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-clustering-coefficient-as-functions-of-p/clustering_coef.png": [
-    "/assets/erdos-renyi-clustering-coefficient-as-functions-of-p.25345dfe.js",
+    "/assets/erdos-renyi-clustering-coefficient-as-functions-of-p.569572e8.js",
     "/assets/clustering_coef.83cd6e4b.png"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-clustering-coefficient-as-functions-of-p/erdos-renyi-clustering-coefficient-as-functions-of-p.md": [
-    "/assets/erdos-renyi-clustering-coefficient-as-functions-of-p.25345dfe.js",
+    "/assets/erdos-renyi-clustering-coefficient-as-functions-of-p.569572e8.js",
     "/assets/clustering_coef.83cd6e4b.png"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-clustering-coefficient-as-functions-of-p/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.d68caab8.js"
+    "/assets/index.adb6772d.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-clustering-coefficient-as-functions-of-p/index.vue": [
-    "/assets/index.d68caab8.js"
+    "/assets/index.adb6772d.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-model/erdos-renyi-model.md": [
-    "/assets/erdos-renyi-model.9a7eaa10.js"
+    "/assets/erdos-renyi-model.ce6f03b1.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-model/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.56b6a509.js"
+    "/assets/index.931dac32.js"
   ],
   "src/pages/complexSystem/random-graph-models/erdos-renyi-model/index.vue": [
-    "/assets/index.56b6a509.js"
+    "/assets/index.931dac32.js"
   ],
   "src/pages/complexSystem/random-graph-models/graph-scale-free/graph-scale-free.md": [
-    "/assets/graph-scale-free.f6ba5b69.js"
+    "/assets/graph-scale-free.b62bf265.js"
   ],
   "src/pages/complexSystem/random-graph-models/graph-scale-free/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.fcc4c19e.js"
+    "/assets/index.5e477a5d.js"
   ],
   "src/pages/complexSystem/random-graph-models/graph-scale-free/index.vue": [
-    "/assets/index.fcc4c19e.js"
+    "/assets/index.5e477a5d.js"
   ],
   "src/pages/complexSystem/random-graph-models/histograms-of-the-degree-distribution/watts_histo.png": [
-    "/assets/histograms-of-the-degree-distribution.974863e2.js",
+    "/assets/histograms-of-the-degree-distribution.fe44a7fb.js",
     "/assets/watts_histo.73240b31.png",
     "/assets/histo_degree_scalefree.2c9c83d1.png"
   ],
   "src/pages/complexSystem/random-graph-models/histograms-of-the-degree-distribution/histo_degree_scalefree.png": [
-    "/assets/histograms-of-the-degree-distribution.974863e2.js",
+    "/assets/histograms-of-the-degree-distribution.fe44a7fb.js",
     "/assets/watts_histo.73240b31.png",
     "/assets/histo_degree_scalefree.2c9c83d1.png"
   ],
   "src/pages/complexSystem/random-graph-models/histograms-of-the-degree-distribution/histograms-of-the-degree-distribution.md": [
-    "/assets/histograms-of-the-degree-distribution.974863e2.js",
+    "/assets/histograms-of-the-degree-distribution.fe44a7fb.js",
     "/assets/watts_histo.73240b31.png",
     "/assets/histo_degree_scalefree.2c9c83d1.png"
   ],
   "src/pages/complexSystem/random-graph-models/histograms-of-the-degree-distribution/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.299803f7.js"
+    "/assets/index.c614e533.js"
   ],
   "src/pages/complexSystem/random-graph-models/histograms-of-the-degree-distribution/index.vue": [
-    "/assets/index.299803f7.js"
+    "/assets/index.c614e533.js"
   ],
   "src/pages/complexSystem/random-graph-models/scale-free-power-law-degree-distribution/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.cb3972bd.js"
+    "/assets/index.211f4ad5.js"
   ],
   "src/pages/complexSystem/random-graph-models/scale-free-power-law-degree-distribution/index.vue": [
-    "/assets/index.cb3972bd.js"
+    "/assets/index.211f4ad5.js"
   ],
   "src/pages/complexSystem/random-graph-models/scale-free-power-law-degree-distribution/cumulative.png": [
-    "/assets/scale-free-power-law-degree-distribution.097d3b8e.js",
+    "/assets/scale-free-power-law-degree-distribution.6d066613.js",
     "/assets/cumulative.e220906c.png"
   ],
   "src/pages/complexSystem/random-graph-models/scale-free-power-law-degree-distribution/scale-free-power-law-degree-distribution.md": [
-    "/assets/scale-free-power-law-degree-distribution.097d3b8e.js",
+    "/assets/scale-free-power-law-degree-distribution.6d066613.js",
     "/assets/cumulative.e220906c.png"
   ],
   "src/pages/complexSystem/random-graph-models/watts-strogatz-model-small-world-network/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.61d4071d.js"
+    "/assets/index.63890705.js"
   ],
   "src/pages/complexSystem/random-graph-models/watts-strogatz-model-small-world-network/index.vue": [
-    "/assets/index.61d4071d.js"
+    "/assets/index.63890705.js"
   ],
   "src/pages/complexSystem/random-graph-models/watts-strogatz-model-small-world-network/watts-strogatz-model-small-world-network.md": [
-    "/assets/watts-strogatz-model-small-world-network.c9962d4c.js"
+    "/assets/watts-strogatz-model-small-world-network.7ac3f40d.js"
   ],
   "src/pages/complexSystem/voterModel/influenceingScenarios/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.756d37bb.js",
+    "/assets/index.8bc16370.js",
     "/assets/index.0b88e430.css"
   ],
   "src/pages/complexSystem/voterModel/influenceingScenarios/index.vue?vue&type=style&index=0&scoped=387455b8&lang.scss": [
-    "/assets/index.756d37bb.js",
+    "/assets/index.8bc16370.js",
     "/assets/index.0b88e430.css"
   ],
   "src/pages/complexSystem/voterModel/influenceingScenarios/index.vue": [
-    "/assets/index.756d37bb.js",
+    "/assets/index.8bc16370.js",
     "/assets/index.0b88e430.css"
   ],
   "src/pages/complexSystem/voterModel/influenceingScenarios/influenceing-scenarios.md": [
-    "/assets/influenceing-scenarios.ef248ef2.js"
+    "/assets/influenceing-scenarios.b603d0cb.js"
   ],
   "src/pages/complexSystem/voterModel/representation/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index.e78af125.js",
+    "/assets/index.5b89216c.js",
     "/assets/index.4f0969ef.css"
   ],
   "src/pages/complexSystem/voterModel/representation/index.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/index.e78af125.js",
+    "/assets/index.5b89216c.js",
     "/assets/index.4f0969ef.css"
   ],
   "src/pages/complexSystem/voterModel/representation/index.vue": [
-    "/assets/index.e78af125.js",
+    "/assets/index.5b89216c.js",
     "/assets/index.4f0969ef.css"
   ],
   "src/pages/complexSystem/voterModel/representation/representation.md": [
-    "/assets/representation.9de9b280.js"
+    "/assets/representation.970deb35.js"
   ]
 }
